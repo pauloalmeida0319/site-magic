@@ -1,0 +1,44 @@
+html{
+  font-family: 'Open Sans', sans-serif;
+}
+
+#sidebar{
+    position: fixed;
+    width: 100%;
+    height: 300px;
+    background-color: #DB81A8;
+    padding-top: 40px;
+}
+
+#sidebar a:hover{
+    color: #d6934d;
+}
+
+#sidebar h1{
+  color: #f9dde9;
+  font-size: 32px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.logo-magic{
+    height: 100px;
+    width: 100px;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sidebar a{
+  text-decoration: none;
+  color: #ebb35e;
+  font-size: 20px;
+}
+
+#sidebar li{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
