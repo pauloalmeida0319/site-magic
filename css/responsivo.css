@@ -4,6 +4,15 @@
 
 } /* Final do Estilo para Tablet*/
 
+.content {
+    position: relative;
+    left: 260px;
+}
+
+.footer {
+    position: relative;
+    left: 55px;
+}
 
 /* Estilo para Smartphone*/
 
@@ -12,6 +21,11 @@
 .content {
     position: relative;
     left: 260px;
+}
+
+.footer {
+    position: relative;
+    left: 55px;
 }
 
 } /* Final do Estilo para Smartphone*/

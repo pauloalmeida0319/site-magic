@@ -121,3 +121,19 @@ html{
 section {
     padding-left: 50px;
 }
+
+.footer {
+  position: relative;
+  left: 55px;
+}
+
+.campo_email {
+  margin-top: 3px;
+}
+.campo_mensagem {
+  margin-top: 3px;
+}
+.click_btn {
+  margin-top: 3px;
+}
+
